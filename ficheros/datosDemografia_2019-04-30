@@ -1,0 +1,163 @@
+23009,BAEZA ,42,147,156
+23045,HUESA ,43,31,32
+23002,ALCALÁ LA REAL ,45,157,236
+23046,IBROS ,44,21,35
+23003,ALCAUDETE ,45,66,142
+23047,IRUELA (LA) ,44,15,17
+23004,ALDEAQUEMADA ,49,2,6
+23048,IZNATORAF ,47,7,7
+23049,JABALQUINTO ,45,15,21
+23006,ARJONA ,43,34,59
+23007,ARJONILLA ,44,24,40
+23008,ARQUILLOS ,43,16,25
+23081,SEGURA DE LA SIERRA ,47,11,21
+23082,SILES ,47,17,32
+23040,LAHIGUERA ,47,15,17
+23084,SORIHUELA DEL GUADALIMAR ,47,5,20
+23041,HIGUERA DE CALATRAVA ,45,4,6
+23085,TORREBLASCOPEDRO ,45,12,33
+23042,HINOJARES ,51,3,4
+23043,HORNOS ,46,3,7
+23087,TORREDONJIMENO ,43,133,158
+23088,TORREPEROGIL ,44,42,110
+23080,SANTO TOMÉ ,45,13,40
+23012,BEAS DE SEGURA ,44,39,64
+23056,LOPERA ,44,31,50
+23057,LUPIÓN ,47,5,19
+23014,BEGÍJAR ,43,13,23
+23058,MANCHA REAL ,40,119,102
+23015,BÉLMEZ DE LA MORALEDA ,46,5,21
+23059,MARMOLEJO ,44,52,73
+23016,BENATAE ,51,2,4
+23017,CABRA DEL SANTO CRISTO ,45,9,14
+23018,CAMBIL ,46,23,45
+23019,CAMPILLO DE ARENAS ,44,11,19
+23093,VALDEPEÑAS DE JAÉN ,46,25,46
+23050,JAÉN ,42,922,993
+23094,VILCHES ,45,23,40
+23051,JAMILENA ,43,19,38
+23095,VILLACARRILLO ,43,87,121
+23052,JIMENA ,47,7,21
+23096,VILLANUEVA DE LA REINA ,44,31,41
+23053,JÓDAR ,40,96,99
+23097,VILLANUEVA DEL ARZOBISPO ,43,75,82
+23010,BAILÉN ,41,154,154
+23054,LARVA ,42,3,3
+23098,VILLARDOMPARDO ,49,5,22
+23011,BAÑOS DE LA ENCINA ,44,14,26
+23055,LINARES ,43,468,558
+23090,TORRES ,49,5,24
+23091,TORRES DE ALBÁNCHEZ ,46,5,14
+23901,CÁRCHELES ,46,6,17
+23902,BEDMAR Y GARCÍEZ ,45,8,51
+23904,SANTIAGO-PONTONES ,48,18,48
+23905,ARROYO DEL OJANCO ,44,8,22
+23067,PEGALAJAR ,44,27,32
+23024,CAROLINA (LA) ,42,114,151
+23025,CASTELLAR ,43,22,46
+23069,PORCUNA ,46,34,86
+23026,CASTILLO DE LOCUBÍN ,50,22,53
+23027,CAZALILLA ,51,2,13
+23028,CAZORLA ,44,52,62
+23029,CHICLANA DE SEGURA ,49,8,17
+23060,MARTOS ,42,210,243
+23061,MENGÍBAR ,39,97,81
+23062,MONTIZÓN ,46,16,23
+23063,NAVAS DE SAN JUAN ,43,38,52
+23020,CANENA ,46,7,22
+23064,NOALEJO ,47,11,24
+23021,CARBONEROS ,44,1,9
+23065,ORCERA ,47,16,30
+23066,PEAL DE BECERRO ,45,44,50
+23034,FUENSANTA DE MARTOS ,45,24,32
+23035,FUERTE DEL REY ,45,14,13
+23079,SANTISTEBAN DEL PUERTO ,43,38,47
+23037,GÉNAVE ,48,4,7
+23038,GUARDIA DE JAÉN (LA) ,37,39,27
+23039,GUARROMÁN ,41,23,37
+23070,POZO ALCÓN ,45,32,64
+23071,PUENTE DE GÉNAVE ,43,17,22
+23072,PUERTA DE SEGURA (LA) ,46,14,39
+23073,QUESADA ,45,27,67
+23030,CHILLUÉVAR ,46,10,27
+23074,RUS ,44,23,38
+23031,ESCAÑUELA ,43,4,8
+23075,SABIOTE ,44,22,62
+23032,ESPELUY,45,3,9
+23076,SANTA ELENA ,45,11,8
+23033,FRAILES ,48,6,20
+23077,SANTIAGO DE CALATRAVA ,49,3,15
+JAÉN (LA) , 37, 39, 27
+23039 , GUARROMÁN , 41, 23, 37
+23070 , POZO ALCÓN , 45, 32, 64
+23071 , PUENTE DE GÉNAVE , 43, 17, 22
+23072 , PUERTA DE SEGURA (LA) , 46, 14, 39
+23073 , QUESADA , 45, 27, 67
+23030 , CHILLUÉVAR , 46, 10, 27
+23074 , RUS , 44, 23, 38
+23031 , ESCAÑUELA , 43, 4, 8
+23075 , SABIOTE , 44, 22, 62
+23032 , ESPELUY, 45, 3, 9
+23076 , SANTA ELENA , 45, 11, 8
+23033 , FRAILES , 48, 6, 20
+23077 , SANTIAGO DE CALATRAVA , 49, 3, 15
+16 : Demografia [nombreMunicipio=Benatae , edadMedia=51, nacimientos=2, defunciones=4]
+23017 : Demografia [nombreMunicipio=Cabra del Santo Cristo , edadMedia=45, nacimientos=9, defunciones=14]
+23018 : Demografia [nombreMunicipio=Cambil , edadMedia=46, nacimientos=23, defunciones=45]
+23019 : Demografia [nombreMunicipio=Campillo de Arenas , edadMedia=44, nacimientos=11, defunciones=19]
+23093 : Demografia [nombreMunicipio=Valdepeñas de Jaén , edadMedia=46, nacimientos=25, defunciones=46]
+23050 : Demografia [nombreMunicipio=Jaén , edadMedia=42, nacimientos=922, defunciones=993]
+23094 : Demografia [nombreMunicipio=Vilches , edadMedia=45, nacimientos=23, defunciones=40]
+23051 : Demografia [nombreMunicipio=Jamilena , edadMedia=43, nacimientos=19, defunciones=38]
+23095 : Demografia [nombreMunicipio=Villacarrillo , edadMedia=43, nacimientos=87, defunciones=121]
+23052 : Demografia [nombreMunicipio=Jimena , edadMedia=47, nacimientos=7, defunciones=21]
+23096 : Demografia [nombreMunicipio=Villanueva de la Reina , edadMedia=44, nacimientos=31, defunciones=41]
+23053 : Demografia [nombreMunicipio=Jódar , edadMedia=40, nacimientos=96, defunciones=99]
+23097 : Demografia [nombreMunicipio=Villanueva del Arzobispo , edadMedia=43, nacimientos=75, defunciones=82]
+23010 : Demografia [nombreMunicipio=Bailén , edadMedia=41, nacimientos=154, defunciones=154]
+23054 : Demografia [nombreMunicipio=Larva , edadMedia=42, nacimientos=3, defunciones=3]
+23098 : Demografia [nombreMunicipio=Villardompardo , edadMedia=49, nacimientos=5, defunciones=22]
+23011 : Demografia [nombreMunicipio=Baños de la Encina , edadMedia=44, nacimientos=14, defunciones=26]
+23055 : Demografia [nombreMunicipio=Linares , edadMedia=43, nacimientos=468, defunciones=558]
+23090 : Demografia [nombreMunicipio=Torres , edadMedia=49, nacimientos=5, defunciones=24]
+23091 : Demografia [nombreMunicipio=Torres de Albánchez , edadMedia=46, nacimientos=5, defunciones=14]
+23901 : Demografia [nombreMunicipio=Cárcheles , edadMedia=46, nacimientos=6, defunciones=17]
+23902 : Demografia [nombreMunicipio=Bedmar y Garcíez , edadMedia=45, nacimientos=8, defunciones=51]
+23904 : Demografia [nombreMunicipio=Santiago-Pontones , edadMedia=48, nacimientos=18, defunciones=48]
+23905 : Demografia [nombreMunicipio=Arroyo del Ojanco , edadMedia=44, nacimientos=8, defunciones=22]
+23067 : Demografia [nombreMunicipio=Pegalajar , edadMedia=44, nacimientos=27, defunciones=32]
+23024 : Demografia [nombreMunicipio=Carolina (La) , edadMedia=42, nacimientos=114, defunciones=151]
+23025 : Demografia [nombreMunicipio=Castellar , edadMedia=43, nacimientos=22, defunciones=46]
+23069 : Demografia [nombreMunicipio=Porcuna , edadMedia=46, nacimientos=34, defunciones=86]
+23026 : Demografia [nombreMunicipio=Castillo de Locubín , edadMedia=50, nacimientos=22, defunciones=53]
+23027 : Demografia [nombreMunicipio=Cazalilla , edadMedia=51, nacimientos=2, defunciones=13]
+23028 : Demografia [nombreMunicipio=Cazorla , edadMedia=44, nacimientos=52, defunciones=62]
+23029 : Demografia [nombreMunicipio=Chiclana de Segura , edadMedia=49, nacimientos=8, defunciones=17]
+23060 : Demografia [nombreMunicipio=Martos , edadMedia=42, nacimientos=210, defunciones=243]
+23061 : Demografia [nombreMunicipio=Mengíbar , edadMedia=39, nacimientos=97, defunciones=81]
+23062 : Demografia [nombreMunicipio=Montizón , edadMedia=46, nacimientos=16, defunciones=23]
+23063 : Demografia [nombreMunicipio=Navas de San Juan , edadMedia=43, nacimientos=38, defunciones=52]
+23020 : Demografia [nombreMunicipio=Canena , edadMedia=46, nacimientos=7, defunciones=22]
+23064 : Demografia [nombreMunicipio=Noalejo , edadMedia=47, nacimientos=11, defunciones=24]
+23021 : Demografia [nombreMunicipio=Carboneros , edadMedia=44, nacimientos=1, defunciones=9]
+23065 : Demografia [nombreMunicipio=Orcera , edadMedia=47, nacimientos=16, defunciones=30]
+23066 : Demografia [nombreMunicipio=Peal de Becerro , edadMedia=45, nacimientos=44, defunciones=50]
+23034 : Demografia [nombreMunicipio=Fuensanta de Martos , edadMedia=45, nacimientos=24, defunciones=32]
+23035 : Demografia [nombreMunicipio=Fuerte del Rey , edadMedia=45, nacimientos=14, defunciones=13]
+23079 : Demografia [nombreMunicipio=Santisteban del Puerto , edadMedia=43, nacimientos=38, defunciones=47]
+23037 : Demografia [nombreMunicipio=Génave , edadMedia=48, nacimientos=4, defunciones=7]
+23038 : Demografia [nombreMunicipio=Guardia de Jaén (La) , edadMedia=37, nacimientos=39, defunciones=27]
+23039 : Demografia [nombreMunicipio=Guarromán , edadMedia=41, nacimientos=23, defunciones=37]
+23070 : Demografia [nombreMunicipio=Pozo Alcón , edadMedia=45, nacimientos=32, defunciones=64]
+23071 : Demografia [nombreMunicipio=Puente de Génave , edadMedia=43, nacimientos=17, defunciones=22]
+23072 : Demografia [nombreMunicipio=Puerta de Segura (La) , edadMedia=46, nacimientos=14, defunciones=39]
+23073 : Demografia [nombreMunicipio=Quesada , edadMedia=45, nacimientos=27, defunciones=67]
+23030 : Demografia [nombreMunicipio=Chilluévar , edadMedia=46, nacimientos=10, defunciones=27]
+23074 : Demografia [nombreMunicipio=Rus , edadMedia=44, nacimientos=23, defunciones=38]
+23031 : Demografia [nombreMunicipio=Escañuela , edadMedia=43, nacimientos=4, defunciones=8]
+23075 : Demografia [nombreMunicipio=Sabiote , edadMedia=44, nacimientos=22, defunciones=62]
+23032 : Demografia [nombreMunicipio=Espeluy, edadMedia=45, nacimientos=3, defunciones=9]
+23076 : Demografia [nombreMunicipio=Santa Elena , edadMedia=45, nacimientos=11, defunciones=8]
+23033 : Demografia [nombreMunicipio=Frailes , edadMedia=48, nacimientos=6, defunciones=20]
+23077 : Demografia [nombreMunicipio=Santiago de Calatrava , edadMedia=49, nacimientos=3, defunciones=15]
+funciones=15]afia [nombreMunicipio=Santiago de Calatrava , edadMedia=49, nacimientos=3, defunciones=15]
